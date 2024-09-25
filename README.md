@@ -22,3 +22,5 @@ go get -u github.com/go-redis/redis/v8
 
 
 ## for database access create new db and change it in a code accordigly
+
+## working fine
